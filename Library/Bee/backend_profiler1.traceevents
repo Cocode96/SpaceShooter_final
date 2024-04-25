@@ -1,0 +1,451 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1714068608323354, "dur":1743, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608325106, "dur":43, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1714068608325166, "dur":15, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1714068608325183, "dur":231, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1714068608325437, "dur":493, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608325930, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970014, "dur":123, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970137, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970150, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970153, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970159, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970162, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970167, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970170, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970176, "dur":41, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970217, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970223, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970225, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970231, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970238, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608970258, "dur":1656, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1714068608325892, "dur":69, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608325964, "dur":10454, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608336424, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1714068608336429, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608338770, "dur":274, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1714068608339046, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1714068608339196, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608339532, "dur":2734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1714068608342268, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1714068608342463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608342779, "dur":3282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1714068608346232, "dur":1350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1714068608347585, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608347590, "dur":2599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1714068608350367, "dur":23779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608374150, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608374573, "dur":12896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608387650, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1714068608387830, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608388284, "dur":25597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1714068608414043, "dur":23527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608437573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608437578, "dur":2803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608440542, "dur":8903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608449448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608449453, "dur":3448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608453052, "dur":10927, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608463984, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608464006, "dur":2210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608466416, "dur":13710, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608480130, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608480137, "dur":5486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608485772, "dur":12480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608498268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608498274, "dur":12433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608510922, "dur":10184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608521110, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608521117, "dur":6845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608528133, "dur":24397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608552534, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608552542, "dur":2131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608554808, "dur":37629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608592440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608592445, "dur":3417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608596249, "dur":30123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608626376, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608626383, "dur":9684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608636220, "dur":16282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608652507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608652515, "dur":4999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608657727, "dur":9423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608667155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608667163, "dur":2707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608670071, "dur":1555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608671643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608671650, "dur":3189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608674993, "dur":554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608675549, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608675556, "dur":3278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608679060, "dur":693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608679755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608679761, "dur":3185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608683091, "dur":19586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608702681, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608702688, "dur":11957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608714825, "dur":46901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608761730, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608761738, "dur":13257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608775205, "dur":31495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608806704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608806710, "dur":15159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608822069, "dur":29763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608851836, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608851842, "dur":16458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608868452, "dur":21709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608890166, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608890174, "dur":16855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608907191, "dur":12911, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608920107, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608920115, "dur":2943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714068608923206, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1714068608923353, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608923358, "dur":23159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1714068608946668, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1714068608946816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714068608946821, "dur":2435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1714068608949407, "dur":20605, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608326313, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608326313, "dur":10154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608336467, "dur":590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1714068608337060, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608339211, "dur":5618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1714068608345013, "dur":1348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1714068608346363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608346578, "dur":2998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1714068608349743, "dur":1517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1714068608351263, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608351267, "dur":2968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1714068608354399, "dur":20754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909.exe" }}
+,{ "pid":12345, "tid":2, "ts":1714068608375155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608375173, "dur":12362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909.exe" }}
+,{ "pid":12345, "tid":2, "ts":1714068608387676, "dur":9849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608397529, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608397913, "dur":10662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608408726, "dur":19523, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608428251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608428257, "dur":10983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608439386, "dur":9778, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608449168, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608449174, "dur":3744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608453071, "dur":12881, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608465955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608465960, "dur":9571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608475693, "dur":13995, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608489690, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608489695, "dur":6646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608496575, "dur":12517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608509096, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608509103, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608512526, "dur":14839, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608527370, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608527378, "dur":5727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608533259, "dur":16675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608549939, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608549947, "dur":3443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608553547, "dur":38207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608591758, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608591766, "dur":2825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608594772, "dur":23497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608618272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608618277, "dur":2366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608620932, "dur":19863, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608640798, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608640810, "dur":7119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608648093, "dur":8785, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608656881, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608656887, "dur":3455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608660484, "dur":11522, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608672008, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608672014, "dur":3293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608675463, "dur":826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608676292, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608676298, "dur":3123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608679582, "dur":510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608680094, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608680099, "dur":3006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608683297, "dur":109792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608793111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608793119, "dur":3152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608796456, "dur":38716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608835176, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608835184, "dur":2112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608837430, "dur":46007, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608883442, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608883452, "dur":3514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608887121, "dur":81071, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608968196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714068608968203, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714068608969993, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1714068608969995, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608326016, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608326016, "dur":10449, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608336466, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1714068608336679, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608339860, "dur":3359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1714068608343377, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1714068608343548, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608344297, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1714068608346294, "dur":285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1714068608346582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608346586, "dur":3510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1714068608350291, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1714068608350505, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608350510, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1714068608352640, "dur":101528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608454170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608454337, "dur":10533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608465036, "dur":9238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608474278, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608474285, "dur":2393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608476815, "dur":12503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608489322, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608489330, "dur":2396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608491871, "dur":21121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608512995, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608513001, "dur":9359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608522523, "dur":9001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608531527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608531532, "dur":3011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608534681, "dur":54644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608589330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608589337, "dur":3159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608592655, "dur":24905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608617581, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608617589, "dur":2749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608620543, "dur":14487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608635034, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608635042, "dur":5208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608640392, "dur":14728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608655124, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608655132, "dur":2399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608658382, "dur":9721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608668107, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608668114, "dur":3346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608671613, "dur":734, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608672350, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608672355, "dur":3561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608676640, "dur":771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608677413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608677418, "dur":3508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608681252, "dur":10880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608692137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608692144, "dur":10941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608703286, "dur":12927, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608716217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608716223, "dur":40708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608757116, "dur":36394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608793513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608793518, "dur":13775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608807475, "dur":76305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608883783, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608883789, "dur":3483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608887652, "dur":68751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608956407, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714068608956415, "dur":2954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714068608959501, "dur":10533, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608326088, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608326089, "dur":10377, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608336467, "dur":7111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1714068608343581, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608343592, "dur":2941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1714068608346707, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1714068608346885, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608347572, "dur":1816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1714068608349545, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1714068608349760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608349777, "dur":4013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1714068608353969, "dur":238837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608592808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608592812, "dur":25400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608618386, "dur":38368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608656758, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608656766, "dur":5949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608662862, "dur":13297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608676162, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608676168, "dur":2907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608679230, "dur":591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608679824, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608679828, "dur":3312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608683310, "dur":22034, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608705347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608705354, "dur":9211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608714729, "dur":43418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608758150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608758157, "dur":16820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608775192, "dur":46816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608822011, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608822016, "dur":14028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608836203, "dur":32635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608868841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608868847, "dur":15392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608884467, "dur":26972, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608911443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608911451, "dur":9986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714068608921622, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1714068608921775, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608921779, "dur":1968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1714068608923928, "dur":352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1714068608924326, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608924331, "dur":10651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1714068608935239, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1714068608935580, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608935587, "dur":11756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1714068608947533, "dur":521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1714068608948057, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714068608948061, "dur":2441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1714068608950641, "dur":19376, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608326197, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608326198, "dur":10270, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608336468, "dur":7274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1714068608343744, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608343755, "dur":2964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1714068608346911, "dur":1175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1714068608348088, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608348261, "dur":1801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1714068608350230, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1714068608350448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608350453, "dur":3553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1714068608354164, "dur":58610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1714068608412777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608412782, "dur":15969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1714068608428916, "dur":8474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608437394, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608437401, "dur":2977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608440546, "dur":16153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608456705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608456713, "dur":8872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608465735, "dur":11945, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608477683, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608477689, "dur":7875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608485728, "dur":10050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608495782, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608495789, "dur":15038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608511037, "dur":10145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608521185, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608521190, "dur":7439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608528796, "dur":16463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608545264, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608545273, "dur":8269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608553706, "dur":38726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608592437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608592518, "dur":3062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608595725, "dur":22001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608617730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608617736, "dur":2506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608620460, "dur":19406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608639886, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608639895, "dur":8040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608648117, "dur":14011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608662132, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608662140, "dur":6021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608668349, "dur":9372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608677723, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608677728, "dur":3268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608681304, "dur":16798, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608698106, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608698114, "dur":4990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608703324, "dur":70659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608773987, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608773994, "dur":20641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608794814, "dur":27123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608821940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608821946, "dur":14069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608836179, "dur":49729, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608885912, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608885920, "dur":20660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608906719, "dur":29213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608935935, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608935939, "dur":10755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714068608946845, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1714068608947004, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714068608947007, "dur":2696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1714068608949848, "dur":20162, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608326425, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608326425, "dur":10016, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608336442, "dur":7406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1714068608343850, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608344370, "dur":1611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1714068608346148, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1714068608346385, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608346589, "dur":3552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1714068608350329, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1714068608350547, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608350551, "dur":38008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1714068608388742, "dur":19198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608407944, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608408134, "dur":4479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608412752, "dur":14955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608427712, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608427725, "dur":1926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608429962, "dur":16449, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608446415, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608446422, "dur":4301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608450978, "dur":14765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608465746, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608465753, "dur":9754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608475675, "dur":8817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608484496, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608484504, "dur":5689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608490379, "dur":20479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608510861, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608510866, "dur":2507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608513522, "dur":17595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608531123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608531131, "dur":2725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608533991, "dur":19201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608553204, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608553210, "dur":4048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608557405, "dur":62523, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608619932, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608619939, "dur":7186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608627275, "dur":19838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608647118, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608647126, "dur":1929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608649190, "dur":14597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608663791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608663797, "dur":4385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608668363, "dur":695, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608669061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608669067, "dur":3207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608672441, "dur":1135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608673604, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608673612, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608676580, "dur":800, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608677384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608677404, "dur":3485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608681149, "dur":651, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608681802, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608681822, "dur":2415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608684369, "dur":29573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608713946, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608713954, "dur":42611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608756724, "dur":57535, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608814263, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608814271, "dur":7639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608822142, "dur":28540, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608850686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608850708, "dur":17579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608868435, "dur":39359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608907797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608907804, "dur":13402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714068608921360, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1714068608921529, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608921685, "dur":1836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1714068608923720, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1714068608923938, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608923942, "dur":10892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1714068608935002, "dur":619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1714068608935624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608935628, "dur":7354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1714068608943126, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1714068608943263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608943271, "dur":3802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1714068608947285, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1714068608947493, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714068608947497, "dur":2475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yangc/Desktop/SpaceShooter/SpaceShooter21_C210909_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1714068608950163, "dur":19848, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714068608973627, "dur":1580, "ph":"X", "name": "ProfilerWriteOutput" }
+,
